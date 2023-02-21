@@ -1,0 +1,668 @@
+[
+    {
+        "songs": [
+            {
+                "title": "Lose You To Love Me",
+                "artist": "Selena Gomez",
+                "genre": "Pop",
+                "length": "3:27",
+                "year": 2019
+            },
+            {
+                "title": "Dancing With A Stranger",
+                "artist": "Sam Smith, Normani",
+                "genre": "Pop",
+                "length": "2:51",
+                "year": 2019
+            },
+            {
+                "title": "Blinding Lights",
+                "artist": "The Weeknd",
+                "genre": "R&B",
+                "length": "3:20",
+                "year": 2020
+            },
+            {
+                "title": "Stay",
+                "artist": "Rihanna, Mikky Ekko",
+                "genre": "Pop",
+                "length": "4:00",
+                "year": 2013
+            },
+            {
+                "title": "Somebody That I Used To Know",
+                "artist": "Gotye, Kimbra",
+                "genre": "Alternative",
+                "length": "4:04",
+                "year": 2011
+            }
+        ],
+        "albums": [
+            {
+                "title": "folklore",
+                "artist": "Taylor Swift",
+                "genre": "Pop",
+                "year": 2020,
+                "tracks": [
+                    "the 1",
+                    "cardigan",
+                    "the last great american dynasty",
+                    "exile",
+                    "my tears ricochet",
+                    "mirrorball",
+                    "seven",
+                    "august",
+                    "this is me trying",
+                    "illicit affairs",
+                    "invisible string",
+                    "mad woman",
+                    "epiphany",
+                    "betty"
+                ]
+            },
+            {
+                "title": "Thriller",
+                "artist": "Michael Jackson",
+                "genre": "Pop",
+                "year": 1982,
+                "tracks": [
+                    "Wanna Be Startin' Somethin'",
+                    "Baby Be Mine",
+                    "The Girl Is Mine",
+                    "Thriller",
+                    "Beat It",
+                    "Billie Jean",
+                    "Human Nature",
+                    "P.Y.T. (Pretty Young Thing)",
+                    "The Lady in My Life"
+                ]
+            },
+            {
+                "title": "1989",
+                "artist": "Taylor Swift",
+                "genre": "Pop",
+                "year": 2014,
+                "tracks": [
+                    "Welcome to New York",
+                    "Blank Space",
+                    "Style",
+                    "Out of the Woods",
+                    "All You Had to Do Was Stay",
+                    "Shake It Off",
+                    "I Wish You Would",
+                    "Bad Blood",
+                    "Wildest Dreams",
+                    "How You Get the Girl",
+                    "This Love",
+                    "I Know Places",
+                    "Clean"
+                ]
+            }
+        ],
+        "artists": [
+            {
+                "name": "Billie Eilish",
+                "genre": "Alternative",
+                "albums": [
+                    "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+                    "Happier Than Ever"
+                ],
+                "songs": [
+                    "bad guy",
+                    "everything i wanted",
+                    "my future",
+                    "Therefore I Am",
+                    "NDA"
+                ]
+            },
+            {
+                "name": "Beyoncé",
+                "genre": "R&B",
+                "albums": [
+                    "Dangerously in Love",
+                    "B'Day",
+                    "I Am... Sasha Fierce",
+                    "4"
+                ],
+                "songs": [
+                    "Crazy in Love",
+                    "Irreplaceable",
+                    "Single Ladies (Put a Ring on It)",
+                    "Formation",
+                    "Black Parade"
+                ]
+            },
+            {
+                "name": "Ed Sheeran",
+                "genre": "Pop",
+                "albums": [
+                    "+",
+                    "x",
+                    "÷",
+                    "="
+                ],
+                "songs": [
+                    "The A Team",
+                    "Thinking Out Loud",
+                    "Shape of You",
+                    "Perfect",
+                    "Bad Habits"
+                ]
+            }
+        ]
+    },
+    {
+        "songs": [
+            {
+                "title": "Shape of My Heart",
+                "artist": "Sting",
+                "genre": "Pop",
+                "length": "4:38",
+                "year": 1993
+            },
+            {
+                "title": "Thinking About You",
+                "artist": "Frank Ocean",
+                "genre": "R&B",
+                "length": "3:21",
+                "year": 2012
+            },
+            {
+                "title": "Sweet Child O' Mine",
+                "artist": "Guns N' Roses",
+                "genre": "Rock",
+                "length": "5:56",
+                "year": 1987
+            },
+            {
+                "title": "One Dance",
+                "artist": "Drake, Wizkid, Kyla",
+                "genre": "Hip Hop",
+                "length": "2:54",
+                "year": 2016
+            },
+            {
+                "title": "Ain't No Sunshine",
+                "artist": "Bill Withers",
+                "genre": "Soul",
+                "length": "2:04",
+                "year": 1971
+            }
+        ],
+        "albums": [
+            {
+                "title": "American Idiot",
+                "artist": "Green Day",
+                "genre": "Rock",
+                "year": 2004,
+                "tracks": [
+                    "American Idiot",
+                    "Jesus of Suburbia",
+                    "Holiday",
+                    "Boulevard of Broken Dreams",
+                    "Are We the Waiting",
+                    "St. Jimmy",
+                    "Give Me Novacaine",
+                    "She's a Rebel",
+                    "Extraordinary Girl",
+                    "Letterbomb",
+                    "Wake Me Up When September Ends",
+                    "Homecoming",
+                    "Whatsername"
+                ]
+            },
+            {
+                "title": "The Miseducation of Lauryn Hill",
+                "artist": "Lauryn Hill",
+                "genre": "R&B",
+                "year": 1998,
+                "tracks": [
+                    "Intro",
+                    "Lost Ones",
+                    "Ex-Factor",
+                    "To Zion",
+                    "Doo Wop (That Thing)",
+                    "Superstar",
+                    "Final Hour",
+                    "When It Hurts So Bad",
+                    "I Used to Love Him",
+                    "Forgive Them Father",
+                    "Every Ghetto, Every City",
+                    "Nothing Even Matters",
+                    "Everything Is Everything",
+                    "The Miseducation of Lauryn Hill",
+                    "Can't Take My Eyes Off You",
+                    "Tell Him"
+                ]
+            },
+            {
+                "title": "21",
+                "artist": "Adele",
+                "genre": "Pop",
+                "year": 2011,
+                "tracks": [
+                    "Rolling in the Deep",
+                    "Rumour Has It",
+                    "Turning Tables",
+                    "Don't You Remember",
+                    "Set Fire to the Rain",
+                    "He Won't Go",
+                    "Take It All",
+                    "I'll Be Waiting",
+                    "One and Only",
+                    "Lovesong",
+                    "Someone Like You"
+                ]
+            }
+        ],
+        "artists": [
+            {
+                "name": "Prince",
+                "genre": "Pop",
+                "albums": [
+                    "Purple Rain",
+                    "1999",
+                    "Sign o' the Times",
+                    "Parade",
+                    "Dirty Mind"
+                ],
+                "songs": [
+                    "Purple Rain",
+                    "When Doves Cry",
+                    "Kiss",
+                    "1999",
+                    "Little Red Corvette"
+                ]
+            },
+            {
+                "name": "Beyoncé",
+                "genre": "R&B",
+                "albums": [
+                    "Dangerously in Love",
+                    "B'Day",
+                    "I Am... Sasha Fierce",
+                    "4",
+                    "Beyoncé",
+                    "Lemonade",
+                    "The Lion King: The Gift"
+                ],
+                "songs": [
+                    "Crazy in Love",
+                    "Irreplaceable",
+                    "Single Ladies (Put a Ring on It)",
+                    "Formation",
+                    "Black Parade"
+                ]
+            },
+            {
+                "name": "Bruno Mars",
+                "genre": "Pop",
+                "albums": [
+                    "Doo-Wops & Hooligans",
+                    "Unorthodox Jukebox",
+                    "24K Magic"
+                ],
+                "songs": [
+                    "Just the Way You Are",
+                    "Grenade",
+                    "Locked Out of Heaven",
+                    "Uptown Funk",
+                    "That's What I Like"
+                ]
+            }
+        ]
+    },
+    {
+        "songs": [
+            {
+                "title": "Bohemian Rhapsody",
+                "artist": "Queen",
+                "genre": "Rock",
+                "length": "5:55",
+                "year": 1975
+            },
+            {
+                "title": "Hello",
+                "artist": "Adele",
+                "genre": "Pop",
+                "length": "4:55",
+                "year": 2015
+            },
+            {
+                "title": "Hotel California",
+                "artist": "Eagles",
+                "genre": "Rock",
+                "length": "6:30",
+                "year": 1977
+            },
+            {
+                "title": "Billie Jean",
+                "artist": "Michael Jackson",
+                "genre": "Pop",
+                "length": "4:54",
+                "year": 1983
+            },
+            {
+                "title": "Stairway to Heaven",
+                "artist": "Led Zeppelin",
+                "genre": "Rock",
+                "length": "8:02",
+                "year": 1971
+            }
+        ],
+        "albums": [
+            {
+                "title": "The Wall",
+                "artist": "Pink Floyd",
+                "genre": "Rock",
+                "year": 1979,
+                "tracks": [
+                    "In the Flesh?",
+                    "The Thin Ice",
+                    "Another Brick in the Wall Part 1",
+                    "The Happiest Days of Our Lives",
+                    "Another Brick in the Wall Part 2",
+                    "Mother",
+                    "Goodbye Blue Sky",
+                    "Empty Spaces",
+                    "Young Lust",
+                    "One of My Turns",
+                    "Don't Leave Me Now",
+                    "Another Brick in the Wall Part 3",
+                    "Goodbye Cruel World"
+                ]
+            },
+            {
+                "title": "Thriller",
+                "artist": "Michael Jackson",
+                "genre": "Pop",
+                "year": 1982,
+                "tracks": [
+                    "Wanna Be Startin' Somethin'",
+                    "Baby Be Mine",
+                    "The Girl Is Mine",
+                    "Thriller",
+                    "Beat It",
+                    "Billie Jean",
+                    "Human Nature",
+                    "P.Y.T. (Pretty Young Thing)",
+                    "The Lady in My Life"
+                ]
+            },
+            {
+                "title": "Back in Black",
+                "artist": "AC/DC",
+                "genre": "Rock",
+                "year": 1980,
+                "tracks": [
+                    "Hells Bells",
+                    "Shoot to Thrill",
+                    "What Do You Do for Money Honey",
+                    "Givin' the Dog a Bone",
+                    "Let Me Put My Love into You",
+                    "Back in Black",
+                    "You Shook Me All Night Long",
+                    "Have a Drink on Me",
+                    "Shake a Leg",
+                    "Rock and Roll Ain't Noise Pollution"
+                ]
+            }
+        ],
+        "artists": [
+            {
+                "name": "Elton John",
+                "genre": "Pop",
+                "albums": [
+                    "Goodbye Yellow Brick Road",
+                    "Madman Across the Water",
+                    "Honky Château",
+                    "Tumbleweed Connection",
+                    "Captain Fantastic and the Brown Dirt Cowboy"
+                ],
+                "songs": [
+                    "Tiny Dancer",
+                    "Rocket Man",
+                    "Bennie and the Jets",
+                    "Crocodile Rock",
+                    "Your Song"
+                ]
+            },
+            {
+                "name": "The Beatles",
+                "genre": "Rock",
+                "albums": [
+                    "Please Please Me",
+                    "With the Beatles",
+                    "A Hard Day's Night",
+                    "Beatles for Sale",
+                    "Help!",
+                    "Rubber Soul",
+                    "Revolver",
+                    "Sgt. Pepper's Lonely Hearts Club Band",
+                    "The Beatles (White Album)",
+                    "Abbey Road",
+                    "Let It Be"
+                ],
+                "songs": [
+                    "Hey Jude",
+                    "Let It Be",
+                    "Yesterday",
+                    "A Hard Day's Night",
+                    "Help!"
+                ]
+            },
+            {
+                "name": "Madonna",
+                "genre": "Pop",
+                "albums": [
+                    "Like a Virgin",
+                    "True Blue",
+                    "Like a Prayer",
+                    "Erotica",
+                    "Ray of Light",
+                    "Music",
+                    "Confessions on a Dance Floor",
+                    "Hard Candy",
+                    "MDNA",
+                    "Rebel Heart",
+                    "Madame X"
+                ],
+                "songs": [
+                    "Like a Prayer",
+                    "Vogue",
+                    "Material Girl",
+                    "Like a Virgin",
+                    "Ray of Light"
+                ]
+            }
+        ]
+    },
+    {
+        "songs": [
+            {
+                "title": "Shape of You",
+                "artist": "Ed Sheeran",
+                "genre": "Pop",
+                "length": "3:54",
+                "year": 2017
+            },
+            {
+                "title": "Boys Don't Cry",
+                "artist": "The Cure",
+                "genre": "Rock",
+                "length": "2:35",
+                "year": 1979
+            },
+            {
+                "title": "Billie Jean",
+                "artist": "Michael Jackson",
+                "genre": "Pop",
+                "length": "4:54",
+                "year": 1983
+            },
+            {
+                "title": "Sweet Child O' Mine",
+                "artist": "Guns N' Roses",
+                "genre": "Rock",
+                "length": "5:56",
+                "year": 1987
+            },
+            {
+                "title": "Hello",
+                "artist": "Adele",
+                "genre": "Pop",
+                "length": "4:55",
+                "year": 2015
+            }
+        ],
+        "albums": [
+            {
+                "title": "Abbey Road",
+                "artist": "The Beatles",
+                "genre": "Rock",
+                "year": 1969,
+                "tracks": [
+                    "Come Together",
+                    "Something",
+                    "Maxwell's Silver Hammer",
+                    "Oh! Darling",
+                    "Octopus's Garden",
+                    "I Want You (She's So Heavy)",
+                    "Here Comes the Sun",
+                    "Because",
+                    "You Never Give Me Your Money",
+                    "Sun King",
+                    "Mean Mr. Mustard",
+                    "Polythene Pam",
+                    "She Came in Through the Bathroom Window",
+                    "Golden Slumbers",
+                    "Carry That Weight",
+                    "The End",
+                    "Her Majesty"
+                ]
+            },
+            {
+                "title": "Dark Side of the Moon",
+                "artist": "Pink Floyd",
+                "genre": "Rock",
+                "year": 1973,
+                "tracks": [
+                    "Speak to Me",
+                    "Breathe",
+                    "On the Run",
+                    "Time",
+                    "The Great Gig in the Sky",
+                    "Money",
+                    "Us and Them",
+                    "Any Colour You Like",
+                    "Brain Damage",
+                    "Eclipse"
+                ]
+            },
+            {
+                "title": "The Fame",
+                "artist": "Lady Gaga",
+                "genre": "Pop",
+                "year": 2008,
+                "tracks": [
+                    "Just Dance",
+                    "LoveGame",
+                    "Paparazzi",
+                    "Beautiful, Dirty, Rich",
+                    "Eh, Eh (Nothing Else I Can Say)",
+                    "Poker Face",
+                    "The Fame",
+                    "Money Honey",
+                    "Again Again",
+                    "Boys Boys Boys",
+                    "Brown Eyes",
+                    "Summerboy",
+                    "I Like It Rough"
+                ]
+            }
+        ],
+        "artists": [
+            {
+                "name": "David Bowie",
+                "genre": "Rock",
+                "albums": [
+                    "Space Oddity",
+                    "The Man Who Sold the World",
+                    "Hunky Dory",
+                    "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+                    "Aladdin Sane",
+                    "Diamond Dogs",
+                    "Young Americans",
+                    "Station to Station",
+                    "Low",
+                    "Heroes",
+                    "Lodger"
+                ],
+                "songs": [
+                    "Life on Mars?",
+                    "Changes",
+                    "Heroes",
+                    "Starman",
+                    "Ziggy Stardust",
+                    "Space Oddity"
+                ]
+            },
+            {
+                "name": "Taylor Swift",
+                "genre": "Pop",
+                "albums": [
+                    "Taylor Swift",
+                    "Fearless",
+                    "Speak Now",
+                    "Red",
+                    "1989",
+                    "Reputation",
+                    "Lover",
+                    "Folklore",
+                    "Evermore"
+                ],
+                "songs": [
+                    "Love Story",
+                    "You Belong with Me",
+                    "Shake It Off",
+                    "Blank Space",
+                    "Bad Blood",
+                    "Style",
+                    "Look What You Made Me Do",
+                    "Me!",
+                    "Cardigan",
+                    "Willow"
+                ]
+            },
+            {
+                "name": "Eminem",
+                "genre": "Hip-Hop",
+                "albums": [
+                    "The Slim Shady LP",
+                    "The Marshall Mathers LP",
+                    "The Eminem Show",
+                    "Encore",
+                    "Relapse",
+                    "Recovery",
+                    "The Marshall Mathers LP 2",
+                    "Revival",
+                    "Kamikaze",
+                    "Music to Be Murdered By",
+                    "Music to Be Murdered By – Side B"
+                ],
+                "songs": [
+                    "Lose Yourself",
+                    "Stan",
+                    "Without Me",
+                    "The Real Slim Shady",
+                    "Love the Way You Lie",
+                    "Rap God",
+                    "Not Afraid",
+                    "Mockingbird",
+                    "Killshot",
+                    "Godzilla"
+                ]
+            }
+        ]
+    }
+]
